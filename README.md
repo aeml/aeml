@@ -1,8 +1,8 @@
 # Robert Mendola
 
-Full-stack / backend / systems engineer building production software, multiplayer game systems, simulation engines, and performance tooling.
+Full-stack / backend / systems engineer shipping production software, multiplayer game systems, simulation engines, and performance tooling.
 
-I like hard runtime problems: authoritative networking, deterministic simulation, concurrency, debugging weird production behavior, and turning messy systems into something that actually ships. Most of my work sits at the intersection of product execution, systems architecture, and operational reality.
+I like hard runtime problems: authoritative networking, deterministic simulation, concurrency, debugging ugly production behavior, and turning messy systems into something that actually ships. Most of my work sits at the intersection of product execution, systems architecture, and operational reality.
 
 ## Featured Projects
 
