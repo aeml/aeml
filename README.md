@@ -39,6 +39,17 @@ Why it matters:
 
 Repo: https://github.com/aeml/hashbrowns
 
+### Open CRM
+Production-capable CRM MVP built with a Go backend, a React frontend, and Postgres — focused on clean operator workflows instead of bloated enterprise cosplay.
+
+Why it matters:
+- Full-stack product execution with a boring, debuggable architecture
+- Real workflow surface across contacts, companies, deals, tasks, notes, and dashboard visibility
+- Clear modular-monolith backend design instead of premature microservice nonsense
+- Production deployment discipline across frontend, backend, database, and auth
+
+Repo: https://github.com/aeml/open_crm
+
 ## What I Build
 
 - Full-stack and backend systems with clear runtime behavior
