@@ -1,79 +1,35 @@
 # Robert Mendola
 
-Full-stack / backend / systems engineer shipping production software, multiplayer game systems, simulation engines, and performance tooling.
+Backend and systems-focused software engineer building production applications, realtime systems, simulation engines, infrastructure tooling, and performance-oriented developer tools.
 
-I like hard runtime problems: authoritative networking, deterministic simulation, concurrency, debugging ugly production behavior, and turning messy systems into something that actually ships. Most of my work sits at the intersection of product execution, systems architecture, and operational reality.
+I like hard runtime problems: backend architecture, distributed systems, APIs, WebSockets, deterministic simulation, concurrency, CI/CD, and debugging ugly production behavior until it becomes something reliable. Most of my work lives where product execution, systems architecture, infrastructure, and operational reality meet.
 
-## Featured Projects
+I work mostly across Go, Node.js, React, Docker, MongoDB, Linux, and modern web/backend tooling.
 
-### Eidolon
-Browser-based isometric action RPG MMO built with a vanilla JavaScript + Three.js client, an authoritative Go WebSocket server, and MongoDB persistence.
+## Selected Projects
 
-Why it matters:
-- Real-time multiplayer game systems
-- Authoritative server architecture
-- Progression, combat, loot, dungeons, trading, and live gameplay UX
-- Large surface area across gameplay, backend, networking, and deployment
-
-Repo: https://github.com/aeml/eidolon
-
-### AtlasCore
-Modern C++20 simulation framework focused on deterministic fixed-timestep physics, ECS architecture, multithreaded job scheduling, and lightweight ASCII rendering.
-
-Why it matters:
-- Deterministic simulation design
-- Concurrency and systems programming
-- Engine-style architecture
-- Testability and reproducible scenario behavior
-
-Repo: https://github.com/aeml/atlascore
-
-### Hashbrowns
-C++ benchmarking suite for comparing custom data structures with reproducible measurements, JSON/CSV export, crossover analysis, and performance baseline checks.
-
-Why it matters:
-- Performance measurement instead of guesswork
-- Tooling for regression detection
-- Data-structure implementation and analysis
-- CI-friendly benchmark discipline
-
-Repo: https://github.com/aeml/hashbrowns
-
-### Open CRM
-Production-capable CRM MVP built with a Go backend, a React frontend, and Postgres — focused on clean operator workflows instead of bloated enterprise cosplay.
-
-Why it matters:
-- Full-stack product execution with a boring, debuggable architecture
-- Real workflow surface across contacts, companies, deals, tasks, notes, and dashboard visibility
-- Clear modular-monolith backend design instead of premature microservice nonsense
-- Production deployment discipline across frontend, backend, database, and auth
-
-Repo: https://github.com/aeml/open_crm
+| Project | What it demonstrates | Stack / keywords | Link |
+| --- | --- | --- | --- |
+| Open CRM | Business-legible product work with a clean Go backend, production deployment discipline, and a modular monolith that stays easy to debug | Go, React, PostgreSQL, Docker Compose, GitHub Actions, APIs, CI/CD | https://github.com/aeml/open_crm |
+| Eidolon | Authoritative realtime backend design for a browser MMO with WebSocket networking, state streaming, and persistent multiplayer systems | Go, JavaScript, Three.js, WebSockets, protobuf, MongoDB, realtime systems | https://github.com/aeml/eidolon |
+| AtlasCore | Systems-heavy simulation work focused on deterministic runtime behavior, job scheduling, and engine-style architecture | C++20, deterministic simulation, multithreading, ECS, physics, systems architecture | https://github.com/aeml/atlascore |
+| hashbrowns | Performance-oriented tooling for reproducible benchmarking, regression detection, and data-structure analysis | C++17, benchmarking, JSON/CSV export, CI, performance analysis | https://github.com/aeml/hashbrowns |
 
 ## What I Build
 
-- Full-stack and backend systems with clear runtime behavior
-- Real-time multiplayer and simulation-heavy software
-- Internal tools, automation, and performance-focused developer tooling
-- Production features that need to survive actual users, not just demos
+- Backend-heavy applications with clear runtime behavior and maintainable architecture
+- APIs, realtime systems, and distributed systems that need to survive real usage
+- Infrastructure and deployment workflows that stay explicit and debuggable
+- Internal tools, simulation-heavy software, and performance-focused developer tooling
 
-## Technical Strengths
+## What I'm Looking For
 
-- Backend architecture
-- Debugging and systems thinking
-- Realtime networking
-- Deterministic simulation
-- Performance analysis
-- API and service design
-- Shipping across frontend, backend, infra, and ops
+I’m most interested in Backend Engineer, Software Engineer, Platform Engineer, Systems Engineer, and backend-heavy Full Stack Engineer roles.
 
-## Current Focus
-
-Right now I’m most interested in:
-- systems-heavy product engineering
-- backend/platform roles
-- simulation, game, or realtime infrastructure
-- AI/ML tooling with strong operational foundations
+Best fit:
+- backend and systems-heavy product engineering
+- infrastructure, platform, or realtime/distributed systems work
+- teams that value clear architecture, operational reliability, and pragmatic execution
 
 ## Links
 
